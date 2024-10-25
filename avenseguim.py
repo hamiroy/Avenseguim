@@ -21,8 +21,8 @@ def avensegium(directory, keyword):
     return keyword_hits
 
 if __name__ == "__main__":
-    directory = r'C:\Users\F3690\OneDrive\001-chronicle\#SharedFolder\Xinjiang Tian Shan Wooltex Hong Kong Office Limited\2022WP\Xinjiang Tian Shan Wooltex HK Office Ltd 2022'
-    keyword = 'Customer Due Diligence'
+    directory = r'C:\Users\F3690\OneDrive\001-chronicle\#SharedFolder\New Charm Management Limited - Mount Austin Estate'
+    keyword = 'Final Completion Checklist'
     hits = avensegium(directory, keyword)
     print("Keyword hits:")
     for hit in hits:
