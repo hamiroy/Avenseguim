@@ -8,6 +8,6 @@
 
 ## Reasons for crafting this spell
 
-I asked Serena told me the excel file of a last year working paper (expected it would be named as `C15.xlsx`) was lost, and she has no template to do such working but only a scanned version. I did't think that it was lost but hidden in somewhere else as the directory got so much files. In turns out the file was located in the parent directory and named as `Xinjiang Tian Shan Wooltex HK - C15 - 2022.xlsx`.
+I was reviewing an audit case, Serena told me the excel file of last year working paper (expected it would be named as `C15.xlsx`) was lost, and she has no template to do such working but only a scanned version. I did't think that it was lost but hidden in somewhere else as the directory got so much files. In turns out the file was located in the parent directory and named as `Xinjiang Tian Shan Wooltex HK - C15 - 2022.xlsx`.
 
 I will hit this magic on her face as what Voldmore did to Snape.![Don't tell me no!](voldemort_kill_snape.gif) 
